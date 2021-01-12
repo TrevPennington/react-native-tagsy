@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>539187554652-imd9dr8deu57u2qp6h5l7qr9e7jka1le.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.539187554652-imd9dr8deu57u2qp6h5l7qr9e7jka1le</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKOUfoOuCaXPyFoleZne3SeHdoC7Zyk1E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>539187554652</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Tagsy</string>
+	<key>PROJECT_ID</key>
+	<string>tagsy-acfcb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tagsy-acfcb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:539187554652:ios:f30b2ae9a832fd7be9b999</string>
+	<key>DATABASE_URL</key>
+	<string>https://tagsy-acfcb.firebaseio.com</string>
+</dict>
+</plist>
